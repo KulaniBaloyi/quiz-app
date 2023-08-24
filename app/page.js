@@ -78,18 +78,6 @@ export default function Home() {
           <span className="text-[rgb(166,172,205)]">)</span>
           </span>
           <br/>
-          <span className="line">
-          <span className="text-[rgb(199,146,234)]">const</span>
-          <span className="text-[rgb(166,172,205)]"> swell </span>
-          <span className="text-[rgb(137,221,255)]">=</span>
-          <span className="text-[rgb(166,172,205)]"> </span>
-          <span className="text-[rgb(130,170,255)]">require</span>
-          <span className="text-[rgb(166,172,205)]">(</span>
-          <span className="text-[rgb(137,221,255)]">'</span>
-          <span className="text-[rgb(195,232,141)]">swell-node</span>
-          <span className="text-[rgb(137,221,255)]">'</span>
-          <span className="text-[rgb(166,172,205)]">)</span>
-          </span>
           <br/>
           <span className="line">
           <span className="text-[rgb(199,146,234)]">const</span>
@@ -117,6 +105,7 @@ export default function Home() {
           <span className="text-[rgb(166,172,205)]">)</span>
           </span>
           <br/>
+          <br/>
           <span className="line">
           <span className="text-[rgb(199,146,234)]">const</span>
           <span className="text-[rgb(166,172,205)]"> swell </span>
@@ -129,6 +118,21 @@ export default function Home() {
           <span className="text-[rgb(137,221,255)]">'</span>
           <span className="text-[rgb(166,172,205)]">)</span>
           </span>
+          <br/>
+          <br/>
+          <span className="line">
+          <span className="text-[rgb(199,146,234)]">const</span>
+          <span className="text-[rgb(166,172,205)]"> swell </span>
+          <span className="text-[rgb(137,221,255)]">=</span>
+          <span className="text-[rgb(166,172,205)]"> </span>
+          <span className="text-[rgb(130,170,255)]">require</span>
+          <span className="text-[rgb(166,172,205)]">(</span>
+          <span className="text-[rgb(137,221,255)]">'</span>
+          <span className="text-[rgb(195,232,141)]">swell-node</span>
+          <span className="text-[rgb(137,221,255)]">'</span>
+          <span className="text-[rgb(166,172,205)]">)</span>
+          </span>
+          <br/>
           <br/>
           <span className="line">
           <span className="text-[rgb(199,146,234)]">const</span>
@@ -156,18 +160,6 @@ export default function Home() {
           <span className="text-[rgb(166,172,205)]">)</span>
           </span>
           <br/>
-          <span className="line">
-          <span className="text-[rgb(199,146,234)]">const</span>
-          <span className="text-[rgb(166,172,205)]"> swell </span>
-          <span className="text-[rgb(137,221,255)]">=</span>
-          <span className="text-[rgb(166,172,205)]"> </span>
-          <span className="text-[rgb(130,170,255)]">require</span>
-          <span className="text-[rgb(166,172,205)]">(</span>
-          <span className="text-[rgb(137,221,255)]">'</span>
-          <span className="text-[rgb(195,232,141)]">swell-node</span>
-          <span className="text-[rgb(137,221,255)]">'</span>
-          <span className="text-[rgb(166,172,205)]">)</span>
-          </span>
           <br/>
           <span className="line">
           <span className="text-[rgb(199,146,234)]">const</span>
@@ -182,6 +174,7 @@ export default function Home() {
           <span className="text-[rgb(166,172,205)]">)</span>
           </span>
           <br/>
+          <br/>
           <span className="line">
           <span className="text-[rgb(199,146,234)]">const</span>
           <span className="text-[rgb(166,172,205)]"> swell </span>
@@ -194,6 +187,21 @@ export default function Home() {
           <span className="text-[rgb(137,221,255)]">'</span>
           <span className="text-[rgb(166,172,205)]">)</span>
           </span>
+          <br/>
+          <br/>
+          <span className="line">
+          <span className="text-[rgb(199,146,234)]">const</span>
+          <span className="text-[rgb(166,172,205)]"> swell </span>
+          <span className="text-[rgb(137,221,255)]">=</span>
+          <span className="text-[rgb(166,172,205)]"> </span>
+          <span className="text-[rgb(130,170,255)]">require</span>
+          <span className="text-[rgb(166,172,205)]">(</span>
+          <span className="text-[rgb(137,221,255)]">'</span>
+          <span className="text-[rgb(195,232,141)]">swell-node</span>
+          <span className="text-[rgb(137,221,255)]">'</span>
+          <span className="text-[rgb(166,172,205)]">)</span>
+          </span>
+          <br/>
           <br/>
           <span className="line">
           <span className="text-[rgb(199,146,234)]">const</span>
