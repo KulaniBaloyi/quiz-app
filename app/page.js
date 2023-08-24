@@ -63,6 +63,7 @@ export default function Home() {
       
      </div>
     } */}
+    <h1>Welcome to my quiz app!!!! : )</h1>
     <pre className="bg-[#1f2937] text-[#e5e7eb]">
         <code className="grid">
           <span className="line">
